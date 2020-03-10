@@ -156,6 +156,7 @@ export const useForm = (
     } else {
       if (Object.keys(validate(values)).length === 0) {
         callback();
+        setErrors({});
       } else {
         setErrors(validate(values));
       }

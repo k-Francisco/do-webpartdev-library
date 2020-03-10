@@ -1,6 +1,6 @@
 {
   "name": "do-webpartdev-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a library containing shared components and common utility functions for sharepoint webpart development",
   "author": "k-Francisco",
   "license": "MIT",
